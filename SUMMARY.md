@@ -17,5 +17,4 @@
 * [Scrum 仪式](scrum-events.md)
 * [Scrum 工件](scrum-artifacts.md)
 * [Scrum 估算与规划](estimation.md)
-* [Scrum 的最佳实践](scrum-bp.md)
 
