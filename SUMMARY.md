@@ -19,9 +19,3 @@
 * [Scrum 估算与规划](estimation.md)
 * [Scrum 的最佳实践](scrum-bp.md)
 
-## Kanban
-
-* [Kanban 概述](kanban-overview.md)
-* [2](2.md)
-* [3](scrum/3.md)
-
