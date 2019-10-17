@@ -18,7 +18,7 @@ RUN rm /etc/nginx/conf.d/*
 
 ADD nginx.conf /etc/nginx/conf.d/
 
-COPY --from=WikiAgile /prod/ /etc/nginx/html/
+COPY --from=WikiAgile /prod/ /etc/nginx/html/agile/
 
 
 
