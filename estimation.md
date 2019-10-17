@@ -26,7 +26,7 @@ Scrum 团队会利用最开始的1、2个 Sprint 进行磨合，确定故事点�
 
 * **史诗**是颗粒度最大的用户需求，通常涵盖范围较广而细节描述较少，例如某类用户在使用服务过程中经历的某短较长的流程，显然需要花费多个 Sprint 来开发和测试，才能完成最终交付。
 * **特性**，是一组由某个史诗拆分出来的、具有相关性的用户故事的集合。例如史诗被拆成足够小的用户故事，其中某些用户故事在共同场景或功能区中，或构成某段子流程。利用特性分组，产品负责人可以优化 Sprint 的交付价值。
-* **用户故事**，是敏捷开发中描述用户需求的最小单元，在被放入 Sprint 之前，需要符合“ INVEST 标准 ”，即独立的（Idependent）、便于沟通的（Negotiable）、有价值的（Valuable）、可估算的（Estimable）、规模足够小的（Small）、可测试的（Testable）。
+* **用户故事**，是敏捷开发中描述用户需求的最小单元，在被放入 Sprint 之前，需要符合“ [INVEST 标准](https://worktile.com/blog/scrum/Worktile-xuemj-product%20backlog) ”，即独立的（Idependent）、便于沟通的（Negotiable）、有价值的（Valuable）、可估算的（Estimable）、规模足够小的（Small）、可测试的（Testable）。
 
 确定被放入 Sprint 的产品待办事项还要在 Sprint 计划会上被分解成具体、可执行的任务，每个任务应确保能在一天内被搞定，这样团队就可以在每日站会上同步客观的开发进度。
 
