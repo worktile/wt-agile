@@ -17,5 +17,5 @@
 * [Scrum 的生命周期](scrum/scrum-process.md)
 * [Scrum 仪式](scrum-events.md)
 * [Scrum 工件](scrum-artifacts.md)
-* [Scrum 估算与规划](estimation.md)
+* [Scrum 估算与规划](scrum/estimation.md)
 
