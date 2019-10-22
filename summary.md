@@ -15,7 +15,7 @@
 * [Scrum 概述](scrum/scrum-overview.md)
 * [Scrum 团队](scrum/scrum-team.md)
 * [Scrum 的生命周期](scrum/scrum-process.md)
-* [Scrum 仪式](scrum-events.md)
-* [Scrum 工件](scrum-artifacts.md)
+* [Scrum 仪式](scrum/scrum-events.md)
+* [Scrum 工件](scrum/scrum-artifacts.md)
 * [Scrum 估算与规划](scrum/estimation.md)
 
